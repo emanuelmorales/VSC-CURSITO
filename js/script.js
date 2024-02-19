@@ -1,2 +1,2 @@
-let nombre = "EManuel Morales"
+let nombre = "Juan Pérez"
 console.log(`Hola ${nombre}, cómo estás?`)
